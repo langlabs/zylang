@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate # see https://github.com/pages-themes/slate
-project_title: Zylang
-project_tagline: Languages for safe and convenient programming
-site.github.is_project_page: false
+title: Zylang
+description: Languages for safe and convenient programming
+show_downloads: false
+github:
+  is_project_page: false
