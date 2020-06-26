@@ -1,6 +1,5 @@
 
-## Looking for other languages
-- [中文](/zh/introduction)
+Other languages: [中文](/zh/introduction)
 
 # Introduction
 ## What is Zylang
