@@ -2,5 +2,11 @@ theme: jekyll-theme-slate # see https://github.com/pages-themes/slate
 title: Zylang
 description: Languages for safe and convenient programming
 show_downloads: false
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
 github:
   is_project_page: false
