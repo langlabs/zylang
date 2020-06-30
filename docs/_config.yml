@@ -3,10 +3,18 @@ title: Zylang
 description: Languages for safe and convenient programming
 show_downloads: false
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
       type: pages
     values:
       layout: default
+      homePage: /
+  -
+    scope:
+      path: zh
+      type: pages
+    values:
+      homePage: /zh/
 github:
   is_project_page: false

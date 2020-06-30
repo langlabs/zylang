@@ -3,8 +3,16 @@
 Other languages: [中文](/zh/)
 
 # Introduction
+Background and basic inforamtion about Zylang.
+
 ## What is Zylang
 Zylang is a series of programming languages for different scenarios.
+
+## Current Stage
+
+## Zylang families
+
+## Prefix of packages
 
 ## Why the language is named "Zylang"
 The name of the language is inspired by Mr. Zhu, A Chinese actor. Since it is not authorized by himself or his studio, I will not put his full name here.
