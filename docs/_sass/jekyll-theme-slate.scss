@@ -64,6 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 36px;
   font-weight: 700;
+  padding-right: 20px;
 }
 
 h2 {
@@ -308,6 +309,8 @@ Full-Width Styles
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
+  margin: 0;
+  padding: 0;
 }
 
 #downloads {
@@ -356,14 +359,16 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 10px;
 }
 
 #footer_wrap {
   background: #212121;
 }
 
-
+.inline {
+  display: inline-block;
+}
 
 /*******************************************************************************
 Small Device Styles
@@ -470,5 +475,4 @@ Small Device Styles
     max-width: 320px;
     font-size: 11px;
   }
-
 }
